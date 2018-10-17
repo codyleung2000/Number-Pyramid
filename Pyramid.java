@@ -1,7 +1,6 @@
 /**
  ** Program Name: Pyramid
- ** Name: Cody Si Man Leung
- ** Student Number: 100320352
+ ** Name: Cody Leung
  ** Course: CPSC 1150-003
  */
 
